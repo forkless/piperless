@@ -11,7 +11,6 @@ Piperless converts every published post into a natural-sounding audio transcript
 
 - **Visually impaired** readers can listen instead of read
 - **Dyslexic** readers get an alternative format
-- **Low-literacy** audiences can access your content
 - **Commuting** readers can consume posts as audio
 - **Non-native speakers** benefit from hearing correct pronunciation
 
